@@ -25,3 +25,5 @@ package borsh
 //	  BarB string
 //  }
 type Enum uint8
+
+type Pubkeyaddr [32]byte
